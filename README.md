@@ -11,4 +11,4 @@ Bienvenido a este repositorio, donde encontrarás material para aprender y pract
 ## 🛠 Uso  
 1. Clona el repositorio:  
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/CarlosVF2003/Curso-de-Python-para-Data-Science-primeros-pasos>
